@@ -178,7 +178,7 @@ function () {
       this.createSaveAsImageButton(div, canv.id); // $('.'+this.carousalClass).carousel(2);
     }
   }]);
-
+ 
   function ChartjsPlotter(hash, length, type, flag, canvasContainerId, elementId, graphCounting) {
     _classCallCheck(this, ChartjsPlotter);
 
